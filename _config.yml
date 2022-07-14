@@ -105,6 +105,6 @@ deploy:
   type: git
   repo: 
      github: git@github.com:liuyuchenchen/liuyuchenchen.github.io.git
-  branch: main
+  branch: master
 
 
