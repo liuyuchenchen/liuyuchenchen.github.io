@@ -104,7 +104,7 @@ theme: landscape
 deploy:
   type: git
   repo: 
-     github: git@github.com:liuyuchenchen/liuyuchenchen.github.io.git
+     github: git@github.com:liuyuchenchen/myblog.git
   branch: master
 
 
